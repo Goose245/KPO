@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="KicksharingApp.Tests/KicksharingApp.Tests.csproj" />
+  <Project Path="KicksharingApp/KicksharingApp.csproj" />
+</Solution>
