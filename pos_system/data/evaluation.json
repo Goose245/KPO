@@ -1,0 +1,22 @@
+[
+  {
+    "CriterionID": "1",
+    "Score": 7,
+    "StudentID": "1"
+  },
+  {
+    "CriterionID": "2",
+    "Score": 8,
+    "StudentID": "1"
+  },
+  {
+    "CriterionID": "1",
+    "Score": 1,
+    "StudentID": "2"
+  },
+  {
+    "CriterionID": "2",
+    "Score": 6,
+    "StudentID": "2"
+  }
+]
